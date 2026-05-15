@@ -1,6 +1,6 @@
 # Hi, I'm Isabel 👋
 
-I'm a learning software developer passionate about building clean, user‑friendly applications and constantly learning new technologies. I enjoy turning ideas into real projects and growing my skills through hands‑on practice. I am currently seeking my Bachelor's Degree in Information Security at USF.
+I'm a beginner software developer passionate about building clean, user‑friendly applications and constantly learning new technologies. I enjoy turning ideas into real projects and growing my skills through hands‑on practice. I am currently seeking my Bachelor's Degree in Information Security at USF.
 
 ---
 
